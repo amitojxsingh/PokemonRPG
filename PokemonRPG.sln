@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonRPG", "PokemonRPG\Po
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonRPG.Battlefield", "PokemonRPG.Battlefield\PokemonRPG.Battlefield.csproj", "{AB5F6218-24F3-4F7C-8279-EC36FC559E16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonRPG.Models", "PokemonRPG.Models\PokemonRPG.Models.csproj", "{9510E9E7-D739-4015-9241-E887F9F92E4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{AB5F6218-24F3-4F7C-8279-EC36FC559E16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB5F6218-24F3-4F7C-8279-EC36FC559E16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB5F6218-24F3-4F7C-8279-EC36FC559E16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9510E9E7-D739-4015-9241-E887F9F92E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9510E9E7-D739-4015-9241-E887F9F92E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9510E9E7-D739-4015-9241-E887F9F92E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9510E9E7-D739-4015-9241-E887F9F92E4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
